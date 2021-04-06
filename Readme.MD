@@ -20,17 +20,12 @@
 ## 👩🏻‍💻 Languages and Tools
 
 <div align="center">
-
 <img src="https://img.icons8.com/color/240/000000/javascript.png" height="60" width="60"/>
 <img src="https://img.icons8.com/color/240/000000/html-5--v1.png" height="60" width="80"/>
 <img src="https://cdn.iconscout.com/icon/free/png-512/node-js-1174925.png" height="60" width="60">
 <img src="https://img.icons8.com/color/452/mongodb.png" height="60" width="60">
-
-<br>
-
 <img height="60" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png">
 <img height="60" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/angular/angular.png">
-
 </div>
 
 <br/>
@@ -48,7 +43,6 @@
   <a href="https://github.com/RiddhiDamani/github-readme-stats"><img alt="Riddhi Damani's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RiddhiDamani&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
   <br/>
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
-
 
 <br/>
 <br/>
