@@ -20,14 +20,16 @@
 ## 👩🏻‍💻 Languages and Tools
 
 <div align="center">
-<img src="https://img.icons8.com/color/240/000000/html-5--v1.png" height="60" width="80"/>
-<img src="https://img.icons8.com/color/48/000000/css3.png" height="60" width="80"/>
+<img src="https://img.icons8.com/color/240/000000/html-5--v1.png" height="60" width="60"/>
+<img src="https://img.icons8.com/color/48/000000/css3.png" height="60" width="60"/>
 <img src="https://img.icons8.com/color/240/000000/javascript.png" height="60" width="60"/>
 <img src="https://cdn.iconscout.com/icon/free/png-512/node-js-1174925.png" height="60" width="60"/>
 <img src="https://img.icons8.com/color/48/000000/react-native.png" height="60" width="60"/>
 <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" height="60" width="60"/>
-<img height="60" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png">
-<img height="60" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/angular/angular.png">
+<img src="https://img.icons8.com/color/48/000000/bootstrap.png" height="60" width="60"/>
+<img src="https://img.icons8.com/color/48/000000/python.png" height="60" width="60"/>
+<img src="https://img.icons8.com/color/48/000000/angularjs.png" height="60" width="60"/>
+<img src="https://img.icons8.com/color/48/000000/oracle-logo.png"/>
 </div>
 
 <br/>
