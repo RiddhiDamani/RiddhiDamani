@@ -8,7 +8,7 @@
 
 - 👩🏻‍🏫 Pursuing Master's in Computer Science at **[DePaul University](https://www.depaul.edu/Pages/default.aspx)**
 
-- 🌱 Currently learning **NodeJS, Angular, ReactJS**
+- 🌱 Currently learning **ReactJS**
 
 - 🦹🏻‍♀️ Active Member of **WWCode Chicago**
   
@@ -20,8 +20,9 @@
 ## 👩🏻‍💻 Languages and Tools
 
 <div align="center">
-<img src="https://img.icons8.com/color/240/000000/javascript.png" height="60" width="60"/>
 <img src="https://img.icons8.com/color/240/000000/html-5--v1.png" height="60" width="80"/>
+<img src="https://img.icons8.com/color/48/000000/css3.png" height="60" width="80"/>
+<img src="https://img.icons8.com/color/240/000000/javascript.png" height="60" width="60"/>
 <img src="https://cdn.iconscout.com/icon/free/png-512/node-js-1174925.png" height="60" width="60">
 <img src="https://img.icons8.com/color/452/mongodb.png" height="60" width="60">
 <img height="60" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png">
