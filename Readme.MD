@@ -30,6 +30,8 @@
 <img src="https://img.icons8.com/color/48/000000/python.png" height="60" width="60"/>
 <img src="https://img.icons8.com/color/48/000000/angularjs.png" height="60" width="60"/>
 <img src="https://img.icons8.com/color/48/000000/oracle-logo.png"/>
+<img src="https://img.icons8.com/color/48/000000/mysql-logo.png" height="60" width="60"/>
+<img src="https://img.icons8.com/color/48/000000/microsoft-sql-server.png" height="60" width="60"/>
 </div>
 
 <br/>
