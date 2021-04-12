@@ -29,7 +29,7 @@
 <img src="https://img.icons8.com/color/240/000000/bootstrap.png" height="60" width="60"/>
 <img src="https://img.icons8.com/color/240/000000/python.png" height="60" width="60"/>
 <img src="https://img.icons8.com/color/240/000000/angularjs.png" height="60" width="60"/>
-<img src="https://img.icons8.com/color/240/000000/oracle-logo.png"/>
+<img src="https://img.icons8.com/color/240/000000/oracle-logo.png" height="60" width="40"/>
 <img src="https://img.icons8.com/color/240/000000/mysql-logo.png" height="60" width="60"/>
 <img src="https://img.icons8.com/material-outlined/192/000000/github.png" height="60" width="60"/>
 </div>
