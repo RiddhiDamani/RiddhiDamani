@@ -8,7 +8,7 @@
 
 - 👩🏻‍🏫 Pursuing Master's in Computer Science at **[DePaul University](https://www.depaul.edu/Pages/default.aspx)**
 
-- 🌱 Currently learning **ReactJS**
+- 🌱 Currently learning **ReactJS, Spring Boot 2.0**
 
 - 🦹🏻‍♀️ Active Member of **WWCode Chicago**
   
