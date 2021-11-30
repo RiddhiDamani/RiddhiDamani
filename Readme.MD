@@ -1,3 +1,4 @@
+<img src="images/bg1.png"> 
 <h1 align="center">Hello <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="25px"> Welcome to my GitHub</h1>
 <h2 align="center">Riddhi here!</h2>
 <h3 align="center">Experienced User Interface Developer</h3>
@@ -11,11 +12,9 @@
 - 🌱 Currently learning **ReactJS, Spring Boot 2.0**
 
 - 🦹🏻‍♀️ Active Member of **WWCode Chicago**
-  
 - 👩🏻‍💻 You can find all my projects here: **[My Portfolio](https://riddhidamani.github.io/Portfolio/)**
 
 - 📫 How to reach me **riddhidamani90@gmail.com**
-
 
 ## 👩🏻‍💻 Languages and Tools
 
@@ -44,10 +43,10 @@
 
 ## 📊 My Github Stats
 
-  <a href="https://github.com/RiddhiDamani/github-readme-stats"><img alt="Riddhi Damani's Github Stats" src="https://github-readme-stats.vercel.app/api?username=RiddhiDamani&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" width="40%"/></a>
-  <a href="https://github.com/RiddhiDamani/github-readme-stats"><img alt="Riddhi Damani's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RiddhiDamani&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" width="40%" /></a>
-  <br/>
-  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
+<a href="https://github.com/RiddhiDamani/github-readme-stats"><img alt="Riddhi Damani's Github Stats" src="https://github-readme-stats.vercel.app/api?username=RiddhiDamani&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" width="40%"/></a>
+<a href="https://github.com/RiddhiDamani/github-readme-stats"><img alt="Riddhi Damani's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RiddhiDamani&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" width="40%" /></a>
+<br/>
+<b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 
 <br/>
 <a href="https://github.com/RiddhiDamani/github-readme-activity-graph"><img alt="Riddhi Damani's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=RiddhiDamani&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
