@@ -9,7 +9,7 @@
 
 - 👩🏻‍🏫 Pursuing Master's in Computer Science at **[DePaul University](https://www.depaul.edu/Pages/default.aspx)**
 
-- 🌱 Currently learning **ReactJS, Spring Boot 2.0**
+- 🌱 Currently learning ** Javascript ES6, ReactJS **
 
 - 🦹🏻‍♀️ Active Member of **WWCode Chicago**
 - 👩🏻‍💻 You can find all my projects here: **[My Portfolio](https://riddhidamani.github.io/Portfolio/)**
