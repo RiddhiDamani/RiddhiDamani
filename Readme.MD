@@ -1,4 +1,4 @@
-<img src="images/bg1.png"> 
+<img src="images/bg2.png"> 
 <h1 align="center">Hello <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="25px"> Welcome to my GitHub</h1>
 <h2 align="center">Riddhi here!</h2>
 <h3 align="center">Experienced User Interface Developer</h3>
