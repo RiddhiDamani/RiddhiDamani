@@ -22,23 +22,23 @@
 ### 👩🏻‍💻 Languages and Tools
 
 <div align="center">
-<img src="https://img.icons8.com/color/240/000000/html-5--v1.png" height="60" width="60"/>
-<img src="https://img.icons8.com/color/240/000000/css3.png" height="60" width="60"/>
-<img src="https://img.icons8.com/color/240/000000/javascript.png" height="60" width="60"/>
-<img src="https://cdn.iconscout.com/icon/free/png-512/node-js-1174925.png" height="60" width="60"/>
-<img src="https://img.icons8.com/color/240/000000/react-native.png" height="60" width="60"/>
-<img src="https://img.icons8.com/color/240/000000/java-coffee-cup-logo.png" height="60" width="60"/>
-<img src="https://img.icons8.com/color/240/000000/bootstrap.png" height="60" width="60"/>
-<img src="https://img.icons8.com/color/240/000000/python.png" height="60" width="60"/>
+<img src="https://img.icons8.com/color/240/000000/html-5--v1.png" height="50" width="50"/>
+<img src="https://img.icons8.com/color/240/000000/css3.png" height="50" width="50"/>
+<img src="https://img.icons8.com/color/240/000000/javascript.png" height="50" width="50"/>
+<img src="https://cdn.iconscout.com/icon/free/png-512/node-js-1174925.png" height="50" width="50"/>
+<img src="https://img.icons8.com/color/240/000000/react-native.png" height="50" width="50"/>
+<img src="https://img.icons8.com/color/240/000000/java-coffee-cup-logo.png" height="50" width="50"/>
+<img src="https://img.icons8.com/color/240/000000/bootstrap.png" height="50" width="50"/>
+<img src="https://img.icons8.com/color/240/000000/python.png" height="50" width="50"/>
 <br/>
-<img src="https://img.icons8.com/color/240/000000/git.png" height="60" width="60"/>
-<img src="https://img.icons8.com/color/240/000000/angularjs.png" height="60" width="60"/>
-<img src="https://img.icons8.com/color/240/000000/oracle-logo.png" height="60" width="40"/>
-<img src="https://img.icons8.com/color/240/000000/mysql-logo.png" height="60" width="60"/>
-<img src="https://img.icons8.com/color/452/mongodb.png" height="60" width="60">
-<img src="https://img.icons8.com/color/240/000000/postgreesql.png" height="60" width="60"/>
-<img src="https://img.icons8.com/color/240/000000/visual-studio-code-2019.png" height="60" width="60"/>
-<img src="https://img.icons8.com/color/240/000000/android-os.png" height="60" width="60"/>
+<img src="https://img.icons8.com/color/240/000000/git.png" height="50" width="50"/>
+<img src="https://img.icons8.com/color/240/000000/angularjs.png" height="50" width="50"/>
+<img src="https://img.icons8.com/color/240/000000/oracle-logo.png" height="50" width="50"/>
+<img src="https://img.icons8.com/color/240/000000/mysql-logo.png" height="50" width="50"/>
+<img src="https://img.icons8.com/color/452/mongodb.png" height="50" width="50">
+<img src="https://img.icons8.com/color/240/000000/postgreesql.png" height="50" width="50"/>
+<img src="https://img.icons8.com/color/240/000000/visual-studio-code-2019.png" height="50" width="50"/>
+<img src="https://img.icons8.com/color/240/000000/android-os.png" height="50" width="50"/>
 
 </div>
 <br/>
@@ -53,11 +53,17 @@
 
 <br/>
 <br/>
+
+### 🤝🏻 &nbsp;Connect with Me
+
+<p>
+<a href="https://riddhidamani.github.io/Portfolio/"><img src="https://img.shields.io/badge/-riddhidamani.com-3423A6?style=flat&logo=Google-Chrome&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/riddhidamani/"><img src="https://img.shields.io/badge/-Riddhi%20Damani-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
+<a href="mailto:riddhidamani90@gmail.com"><img src="https://img.shields.io/badge/-riddhidamani90@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
+<a href="https://instagram.com/riddhi.damani"><img src="https://img.shields.io/badge/-@riddhi.damani-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
+<a href="https://www.pinterest.com/riddhidamani1611/"><img src="https://img.shields.io/badge/-@riddhidamani1611-BD081C?style=flat&logo=Pinterest&logoColor=white"/></a>
+</p>
 <div align="center">
-
-[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white">](https://www.linkedin.com/in/riddhidamani/)
-[<img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/thetraveldyad/)
-
 <p align="center">
  
  <img src="https://badges.pufler.dev/visits/RiddhiDamani/RiddhiDamani"/> 
