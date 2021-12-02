@@ -7,12 +7,14 @@
 
 - 👩🏻‍🏫 Pursuing Master's in Computer Science at **[DePaul University](https://www.depaul.edu/Pages/default.aspx)**
 - 👯 Enjoy contributing to open source projects in leisure
+- 👩🏻‍🎨 Love developing cool web and mobile apps
 - 🌱 Currently learning Javascript ES6, ReactJS
 - 🦹🏻‍♀️ Brushing up my Data Structures and Algorithms skills by LeetCoding
 - 👩🏻‍💻 You can find all my projects here: **[My Portfolio](https://riddhidamani.github.io/Portfolio/)**
 - 📫 How to reach me: **riddhidamani90@gmail.com**
 - 😄 Pronouns: her/she
 - 😎 Innate Nature : Hardworking and Focused 🎯
+- ☕️ Chai-Coffee Lover
 
 ### ✨ Motto
 
@@ -44,18 +46,15 @@
 
 ### 🏆 Github Status
 
-<div>
-<a href="https://github.com/RiddhiDamani/github-readme-streak-stats">
-        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Riddhi Damani's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=RiddhiDamani&theme=great-gatsby&hide_border=true&stroke=0000&background=060A0CD0" width="50%"/>
-</a>
-<a href="https://github.com/RiddhiDamani/github-readme-stats"><img alt="Riddhi Damani's Github Stats" src="https://github-readme-stats.vercel.app/api?username=RiddhiDamani&show_icons=true&count_private=true&theme=great-gatsby&hide_border=true&bg_color=0D1117" width="50%"/></a>
+<img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Riddhi Damani's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=RiddhiDamani&theme=great-gatsby&hide_border=true&stroke=0000&background=060A0CD0" width="50%" height="50%" align="left"/>
 
-</div>
-
-<a href="https://github.com/RiddhiDamani/github-readme-stats"><img alt="Riddhi Damani's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RiddhiDamani&langs_count=8&count_private=true&layout=compact&theme=great-gatsby&hide_border=true&bg_color=0D1117" width="50%" /></a>
+<img alt="Riddhi Damani's Github Stats" src="https://github-readme-stats.vercel.app/api?username=RiddhiDamani&show_icons=true&count_private=true&theme=great-gatsby&hide_border=true&bg_color=0D1117" width="50%" height="50%" />
+<br/>
+<img alt="Riddhi Damani's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RiddhiDamani&langs_count=8&count_private=true&layout=compact&theme=great-gatsby&hide_border=true&bg_color=0D1117" width="50%" height="50%"/>
 
 <br/>
 <br/>
+<div align="center">
 
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white">](https://www.linkedin.com/in/riddhidamani/)
 [<img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/thetraveldyad/)
@@ -67,3 +66,4 @@
  <img src="https://badges.pufler.dev/commits/monthly/RiddhiDamani" />
 
 </p>
+</div>
