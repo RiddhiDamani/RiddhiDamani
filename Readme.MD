@@ -21,7 +21,7 @@
 
 ### 👩🏻‍💻 Languages and Tools
 
-<div align="center">
+<div>
 <img src="https://img.icons8.com/color/240/000000/html-5--v1.png" height="50" width="50"/>
 <img src="https://img.icons8.com/color/240/000000/css3.png" height="50" width="50"/>
 <img src="https://img.icons8.com/color/240/000000/javascript.png" height="50" width="50"/>
@@ -30,7 +30,6 @@
 <img src="https://img.icons8.com/color/240/000000/java-coffee-cup-logo.png" height="50" width="50"/>
 <img src="https://img.icons8.com/color/240/000000/bootstrap.png" height="50" width="50"/>
 <img src="https://img.icons8.com/color/240/000000/python.png" height="50" width="50"/>
-<br/>
 <img src="https://img.icons8.com/color/240/000000/git.png" height="50" width="50"/>
 <img src="https://img.icons8.com/color/240/000000/angularjs.png" height="50" width="50"/>
 <img src="https://img.icons8.com/color/240/000000/oracle-logo.png" height="50" width="50"/>
