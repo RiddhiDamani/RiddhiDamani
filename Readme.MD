@@ -31,7 +31,6 @@
 <img src="https://img.icons8.com/color/240/000000/bootstrap.png" height="50" width="50"/>
 <img src="https://img.icons8.com/color/240/000000/python.png" height="50" width="50"/>
 <img src="https://img.icons8.com/color/240/000000/git.png" height="50" width="50"/>
-<img src="https://img.icons8.com/color/240/000000/angularjs.png" height="50" width="50"/>
 <img src="https://img.icons8.com/color/240/000000/oracle-logo.png" height="50" width="50"/>
 <img src="https://img.icons8.com/color/240/000000/mysql-logo.png" height="50" width="50"/>
 <img src="https://img.icons8.com/color/452/mongodb.png" height="50" width="50">
