@@ -1,6 +1,6 @@
 <img src="images/bg2.png"> 
-<h1 align="center">Hey there, I'm Riddhi Damani <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="25px"></h1>
-<h4 align="center">Experienced User Interface Developer | Aspiring Full Stack Developer </h4>
+<h2 align="center">Hey there, I'm Riddhi Damani <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="25px"></h2>
+<h3 align="center">Experienced User Interface Developer | Aspiring Full Stack Developer </h3>
 <img width="300" align="left" height="320" src="images/2.png" height="175px"/>
 
 ### 👩🏻‍💻 About Me
@@ -55,10 +55,15 @@
 <a href="https://github.com/RiddhiDamani/github-readme-stats"><img alt="Riddhi Damani's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RiddhiDamani&langs_count=8&count_private=true&layout=compact&theme=great-gatsby&hide_border=true&bg_color=0D1117" width="50%" /></a>
 
 <br/>
-
-#### Show some ❤️ by starring ⭐ some of the repositories!
-
 <br/>
 
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white">](https://www.linkedin.com/in/riddhidamani/)
 [<img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/thetraveldyad/)
+
+<p align="center">
+ 
+ <img src="https://badges.pufler.dev/visits/RiddhiDamani/RiddhiDamani"/> 
+ <img src="https://badges.pufler.dev/repos/RiddhiDamani"/>
+ <img src="https://badges.pufler.dev/commits/monthly/RiddhiDamani" />
+
+</p>
