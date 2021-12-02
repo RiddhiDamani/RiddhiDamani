@@ -45,14 +45,12 @@
 
 ### 🏆 Github Status
 
-<img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Riddhi Damani's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=RiddhiDamani&theme=great-gatsby&hide_border=true&stroke=0000&background=060A0CD0" width="50%" height="50%" align="left"/>
-
-<img alt="Riddhi Damani's Github Stats" src="https://github-readme-stats.vercel.app/api?username=RiddhiDamani&show_icons=true&count_private=true&theme=great-gatsby&hide_border=true&bg_color=0D1117" width="50%" height="50%" />
-<br/>
-<img alt="Riddhi Damani's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RiddhiDamani&langs_count=8&count_private=true&layout=compact&theme=great-gatsby&hide_border=true&bg_color=0D1117" width="50%" height="50%"/>
-
-<br/>
-<br/>
+<p  align="center">
+<a href="https://github.com/RiddhiDamani">
+    <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=RiddhiDamani&show_icons=true&theme=great-gatsby&include_all_commits=true&count_private=true" height="180em"/>
+    <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=RiddhiDamani&layout=compact&langs_count=8&theme=great-gatsby" height="180em" />
+</a>
+</p>
 
 ### 🤝🏻 &nbsp;Connect with Me
 
