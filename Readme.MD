@@ -39,7 +39,6 @@
 <img src="https://img.icons8.com/color/240/000000/android-os.png" height="50" width="50"/>
 
 </div>
-<br/>
 
 ### 🏆 Github Status
 
