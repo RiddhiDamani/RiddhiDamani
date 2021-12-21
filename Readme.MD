@@ -59,11 +59,12 @@
 <a href="https://instagram.com/riddhi.damani"><img src="https://img.shields.io/badge/-@riddhi.damani-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
 <a href="https://www.pinterest.com/riddhidamani1611/"><img src="https://img.shields.io/badge/-@riddhidamani1611-BD081C?style=flat&logo=Pinterest&logoColor=white"/></a>
 </p>
-<div align="center">
-<p align="center">
- 
- <img src="https://badges.pufler.dev/visits/RiddhiDamani/RiddhiDamani"/> 
+<div align="left">
+<p>
+ <img src="https://badges.pufler.dev/visits/RiddhiDamani/RiddhiDamani"/>
+<br />
  <img src="https://badges.pufler.dev/repos/RiddhiDamani"/> 
+ <br/>
  <img src="https://badges.pufler.dev/commits/monthly/RiddhiDamani" />
 
 </p>
