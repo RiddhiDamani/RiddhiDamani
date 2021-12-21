@@ -50,6 +50,7 @@
 </p>
 
 ### 🤝🏻 &nbsp;Connect with Me
+
 <br/>
 <p>
 <a href="https://riddhidamani.github.io/Portfolio/"><img src="https://img.shields.io/badge/-riddhidamani.com-3423A6?style=flat&logo=Google-Chrome&logoColor=white"/></a>
