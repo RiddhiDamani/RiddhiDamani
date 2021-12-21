@@ -51,7 +51,6 @@
 
 ### 🤝🏻 &nbsp;Connect with Me
 
-<br/>
 <p>
 <a href="https://riddhidamani.github.io/Portfolio/"><img src="https://img.shields.io/badge/-riddhidamani.com-3423A6?style=flat&logo=Google-Chrome&logoColor=white"/></a>
 <a href="https://www.linkedin.com/in/riddhidamani/"><img src="https://img.shields.io/badge/-Riddhi%20Damani-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
@@ -62,10 +61,10 @@
 <div align="left">
 <p>
  <img src="https://badges.pufler.dev/visits/RiddhiDamani/RiddhiDamani"/>
-<br />
+<!-- <br />
  <img src="https://badges.pufler.dev/repos/RiddhiDamani"/> 
  <br/>
- <img src="https://badges.pufler.dev/commits/monthly/RiddhiDamani" />
+ <img src="https://badges.pufler.dev/commits/monthly/RiddhiDamani" /> -->
 
 </p>
 </div>
