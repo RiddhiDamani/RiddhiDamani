@@ -63,8 +63,9 @@
  <img src="https://badges.pufler.dev/visits/RiddhiDamani/RiddhiDamani"/>
 <!-- <br />
  <img src="https://badges.pufler.dev/repos/RiddhiDamani"/> 
- <br/>
- <img src="https://badges.pufler.dev/commits/monthly/RiddhiDamani" /> -->
+ <br/> -->
+
+ <img src="https://badges.pufler.dev/commits/monthly/RiddhiDamani" />
 
 </p>
 </div>
