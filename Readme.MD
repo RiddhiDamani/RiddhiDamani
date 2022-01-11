@@ -8,7 +8,7 @@
 - 👩🏻‍🏫 Pursuing Master's in Computer Science at **[DePaul University](https://www.depaul.edu/Pages/default.aspx)**
 - 👯 Enjoy contributing to open source projects in leisure
 - 👩🏻‍🎨 Love developing cool web and android mobile apps
-- 🌱 Currently learning ReactJS
+- 🌱 Currently learning ReactJS and Javascript
 - 🦹🏻‍♀️ Brushing up my Data Structures and Algorithms skills by LeetCoding
 - 👩🏻‍💻 You can find all my projects here: **[My Portfolio](https://riddhidamani.github.io/Portfolio/)**
 - 📫 How to reach me: **riddhidamani90@gmail.com**
