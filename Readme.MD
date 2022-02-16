@@ -17,7 +17,7 @@
 
 ### ✨ Motto
 
-<em>"Hustle silently and your results will speak volumes!"</em>
+<em>"Hustle silently and let your results speak volumes!"</em>
 
 ### 👩🏻‍💻 Languages and Tools
 
