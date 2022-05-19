@@ -1,6 +1,6 @@
 <img src="images/bg2.png"> 
 <h2 align="center">Hey there, I'm Riddhi Damani <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="25px"></h2>
-<h3 align="center">Experienced User Interface Developer | Aspiring Full Stack Developer </h3>
+<h3 align="center">Experienced User Interface Developer </h3>
 <!-- <img width="300" align="left" height="320" src="images/2.png" height="175px"/> -->
 
 ### 👩🏻‍💻 About Me
