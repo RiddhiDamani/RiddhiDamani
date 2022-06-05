@@ -1,5 +1,5 @@
 <img src="images/bg2.png"> 
-<h2 align="center">Hey there, I'm Riddhi Damani <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif"></h2>
+<h2 align="center">Hey there, I'm Riddhi Damani</h2>
 <h3 align="center">Experienced User Interface Developer </h3>
 <!-- <img width="300" align="left" height="320" src="images/2.png" height="175px"/> -->
 
